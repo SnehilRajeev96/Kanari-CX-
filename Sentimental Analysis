@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# 1. Simulated expert transcripts for each sector and CX stage
+# 1. Expert interview transcripts for each sector and CX stage
 transcripts = {
     'Banking': {
         'Discovery': [
