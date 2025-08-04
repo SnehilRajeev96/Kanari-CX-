@@ -1,7 +1,7 @@
 # Digital CX Maturity Sentiment Analysis
 
 A Python‐based demonstration of  sector‐by‐sector Customer Experience (CX) maturity heatmap via sentiment analysis.  
-This repo simulates expert interviews across three UAE sectors (Banking, Healthcare, Retail) at five CX stages, runs sentiment analysis on the transcripts, and produces a color‐coded heatmap matching the original “Digital Maturity by Sector/Stage” chart.
+This report analyses expert interviews across three UAE sectors (Banking, Healthcare, Retail) at five CX stages, runs sentiment analysis on the transcripts, and produces a color‐coded heatmap matching the original “Digital Maturity by Sector/Stage” chart.
 
 ---
 
